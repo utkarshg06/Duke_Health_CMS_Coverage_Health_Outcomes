@@ -1,0 +1,4 @@
+"term","estimate","std.error","statistic","p.value","Group","Measure","Disease"
+"treat_group:post",-6.38485010143727,2.12524086333109,-3.00429481269699,0.0026709012869535,"Early","Deaths","Chronic kidney disease due to hypertension"
+"treat_group:post",-162.312254157083,64.5126188995278,-2.5159768263302,0.0118864733672363,"Early","DALYs (Disability-Adjusted Life Years)","Chronic kidney disease due to hypertension"
+"treat_group:post",-1372.83512352166,628.842932308598,-2.18311290942196,0.0290516256222968,"Early","Prevalence","Opioid use disorders"
